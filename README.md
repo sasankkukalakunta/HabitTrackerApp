@@ -27,3 +27,43 @@ MVVM Architecture: Ensures separation of concerns and scalability.
 State Management: Powered by @StateObject and @ObservedObject.
 NavigationView: For hierarchical navigation between views.
 Reusable Components: Modular design with reusable views like HabitCard and CartItem.
+
+ 📖 How It Works
+
+MainView.swift
+The MainView serves as the app's entry point and navigation controller.It uses a TabView to allow users to switch between:
+Habit Tracker Tab: For managing and tracking habits.
+Products Tab: For browsing products to add to the cart.
+Cart Tab: For viewing and managing the cart.
+Habit Tracker
+
+Track Progress:
+Users can view a list of habits they are tracking.
+Each habit displays the total number of completions.
+
+Add New Habits:
+Users can add habits with a name and desired completion goals.
+
+Mark as Complete:
+Users can mark habits as completed to increment their streaks.
+Shopping Cart
+
+Browse Products:
+Users can view a list of available products with prices.
+
+Add to Cart:
+Tap "Add to Cart" to add an item to the shopping cart.
+Items already in the cart will have their quantities incremented.
+
+Manage Cart:
+View all items in the cart with quantities and prices.
+Remove items or adjust quantities dynamically.
+Total Cost Calculation:
+The total cost of items in the cart is calculated in real-time.
+
+📱 Screenshots
+
+Habit Tracker
+Habit Tracker Home	Add New Habit
+Shopping Cart
+Product List	Cart View
