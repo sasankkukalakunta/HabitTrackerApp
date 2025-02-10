@@ -61,7 +61,14 @@ Remove items or adjust quantities dynamically.
 Total Cost Calculation:
 The total cost of items in the cart is calculated in real-time.
 
-📱 Screenshots
+📱 Screenshots:
+<p float="left">
+  <img src="https://github.com/sasankkukalakunta/HabitTrackerApp/blob/main/homeScreen_habit_tracker.png" width="200" />
+  <img src="https://github.com/sasankkukalakunta/HabitTrackerApp/blob/main/Shopping%20CartView.png" width="200" />
+  <img src="https://github.com/sasankkukalakunta/HabitTrackerApp/blob/main/ProductlistView.png" width="200" />
+   <img src="https://github.com/sasankkukalakunta/HabitTrackerApp/blob/main/AddnewHabitView.png" width="200" />
+
+</p>
 
 Habit Tracker
 Habit Tracker Home	Add New Habit
